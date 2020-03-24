@@ -18,18 +18,23 @@ This portfolio was created using what i've learned from react so far and will co
 
 ## Links
 
-https://github.com/DrBailey13/react-portfolio/tree/master/reactportfolio
+
+https://github.com/DrBailey13/devante-portfolio
+
+https://devante-portfolio.herokuapp.com/
+
+
 
 
 
 
 ## Screenshots
 
-<img src="/Users/devantebailey/Class/Projects/react-portfolio/reactapp/src/images/aboutme.png">
+<img src="images/aboutme.png">
 
-<img src="/Users/devantebailey/Class/Projects/react-portfolio/reactapp/src/images/portfolio.png">
+<img src="images/portfolio.png">
 
-<img src="/Users/devantebailey/Class/Projects/react-portfolio/reactapp/src/images/contact.png">
+<img src="images/contact.png">
 
 ## Credits
 
